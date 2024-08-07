@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.social-link {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.3s;
+  text-decoration: none;
+}
+  /* .mySwiper .swiper-pagination-bullet {
+    background-color: #3f3f46;
+    width: 12px; 
+    height: 12px; 
+  } */
+  
+  
+  /* .mySwiper .swiper-pagination-bullet-active {
+    background-color: #fea928 !important; 
+  } */
